@@ -1,0 +1,2 @@
+spigot-openshift-server
+=======================
